@@ -8,7 +8,7 @@ const Home = () => {
 
   return (
     <Container>
-      <h1>Pokedex Cards</h1>
+      <h1>Pokemon Cards</h1>
       <Content>
         {list && list.map((item, index) => <Cards key={index} data={item} />)}
       </Content>
