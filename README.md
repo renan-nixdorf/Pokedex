@@ -9,7 +9,7 @@ Uma página que exibe cartas de Pokémon, dados obtidos por meio da API [Pokemon
 
 ## Stack utilizada
 
-**Front-end:** React FetchAPI, Styled-Components
+**Front-end:** React, Styled-Components, Axios
 
 ## Screenshots
 
